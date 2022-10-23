@@ -1,1 +1,0 @@
-# eJPT-Command-Cheatsheet
